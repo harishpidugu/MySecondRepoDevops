@@ -1,0 +1,7 @@
+1.  command to install git : yum install git -y (yum: yellowdog updater modifier)
+2.  To check the git version: git --version
+3.  to get empty repo : git init .
+4.  To track the file: git add file_name
+5.  To track the multiple files : git add aws azure gcp
+6.  all regular files: git add *
+7.  including hidden files: git add .
